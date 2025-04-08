@@ -34,7 +34,6 @@ list_of_files = [
     "Dockerfile",
     "setup.py"
 
-
 ]
 
 
