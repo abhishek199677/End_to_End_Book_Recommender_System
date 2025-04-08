@@ -3,4 +3,4 @@ pandas
 numpy
 PyYAML
 streamlit
-# -e .
+-e .
